@@ -7,10 +7,10 @@ export default function Home() {
         <h1>aperture</h1>
       </div>
       <div className="subheader">
-        <p>The only hub for .huh, fenrir and many more projects! a product of valor.</p>
+        <p>The only hub for .huh, fenrir and many more projects! a product of yigit.</p>
       </div>
       <nav>
-        <Link href="https://github.com/outpoot" className="nav-link">github</Link>
+        <Link href="https://github.com/yigitkabak" className="nav-link">github</Link>
       </nav>
       <footer>
         <p>a yigit production.</p>
